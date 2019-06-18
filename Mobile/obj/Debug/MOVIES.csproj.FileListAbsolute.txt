@@ -1,0 +1,15 @@
+D:\LAB\DDOOCP\Mobile\Mobile\bin\Debug\Mobile.exe.config
+D:\LAB\DDOOCP\Mobile\Mobile\bin\Debug\Mobile.exe
+D:\LAB\DDOOCP\Mobile\Mobile\bin\Debug\Mobile.pdb
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.Form1.resources
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.login.resources
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.Properties.Resources.resources
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\MOVIES.csproj.GenerateResource.cache
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\MOVIES.csproj.CoreCompileInputs.cache
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.exe
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.pdb
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.Genre.resources
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.DisplayGen.resources
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.DisplayRegGen.resources
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\Mobile.RegGenres.resources
+D:\LAB\DDOOCP\Mobile\Mobile\obj\Debug\MOVIES.csprojAssemblyReference.cache
